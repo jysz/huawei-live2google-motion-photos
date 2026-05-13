@@ -16,6 +16,7 @@ The XMP metadata field `Item:Length` tells Google Photos where the video starts 
 ## Usage
 ### GUI
 just run the exe and enjoy 😀
+![image](https://github.com/user-attachments/assets/47240a0e-993e-4ea9-a58f-0bfeac30823b)
 ### Python Script (CLI)
 ```bash
 python3 make_live_photo.py <input.jpg> <input.mp4> <output.jpg>
