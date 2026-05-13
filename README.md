@@ -3,6 +3,13 @@ Convert Huawei Live Photos to Google Photos compatible Motion Photos.
 
 Combine separate JPG + MP4 files from Huawei Live Photos into Google Photos-compatible Motion Photos.
 
+## What Works
+
+* **Full Compatibility**: Motion is playable on both Google Photos App and Web.
+* **Ultra HDR**: Preserves Ultra HDR information.
+* **EXIF Metadata**: Retains camera model and shutter speed.
+* **GPS Location**: Preserves original location data.
+
 ## How It Works
 
 A Google Photos Motion Photo is a single file containing two parts:
